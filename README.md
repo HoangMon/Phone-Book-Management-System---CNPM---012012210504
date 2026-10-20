@@ -18,7 +18,6 @@ A robust, multi-user contact management application developed in **C++** with a 
   - [Build and Run](#build-and-run)
 - [Security & Performance Guidelines](#-security--performance-guidelines)
 - [Project Changelog](#-project-changelog)
-- [License](#-license)
 
 ---
 
@@ -227,6 +226,3 @@ sudo apt install -y build-essential libmysqlclient-dev default-mysql-server
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
