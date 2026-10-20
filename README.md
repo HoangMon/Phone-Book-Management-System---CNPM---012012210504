@@ -222,11 +222,8 @@ sudo apt install -y build-essential libmysqlclient-dev default-mysql-server
 
 | Date | Version | Summary of Changes |
 | :--- | :--- | :--- |
-| **10/08/2025** | `1.0` | Initial Documentation Development |
-| **15/08/2025** | `1.0` | Specification of Functional and Non-Functional Requirements |
-| **19/08/2025** | `1.0` | Initial DFD, Use Case, Class Diagram, Data Model & UI Design |
-| **21/08/2025** | `1.1` | Refined Diagrams and Interface Specifications |
-| **22/08/2025** | `1.2` | Finalized Class Diagram, Data Model, and Mockup Specifications |
+| **20/10/2026** | `1.0` | Initial Documentation Development |
+
 
 ---
 
